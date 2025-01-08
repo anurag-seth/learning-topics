@@ -8,10 +8,11 @@
 // promise self create
 // javascript dynamic vs static - done
 // runtime vs compile time js
-// array manipulaitons
+// array manipulaitons - done
 // functions in js - done
 // js async or sync - done
-// timeout vs setInterval
+// timeout vs setInterval - done
+// map - done
 
 
 // let x=5
@@ -22,9 +23,20 @@
 
 
 
-// 5
-// setTimeout(1000) 
-// write expression
-// x=6
-// consol// .map
 
+// 8th jan
+
+// promise chaining
+// use interval in promise
+// java sync or async behavior
+// let scoping
+// var vs let in terms of scoping
+
+// console.log(bar)
+// console.log(foo)
+// var bar = 1;
+// let foo =2;
+
+// arrow functions 10 example
+
+// multiple layered obj, from masp

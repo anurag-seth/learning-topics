@@ -12,7 +12,7 @@ const printMessage = function(name){
 console.log(printMessage('anurag'));
 
 
-// arror functions
+// arrow functions
 const helloUser = (name) => {
     console.log("hello", name);
 }
